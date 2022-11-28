@@ -2,6 +2,8 @@
 
 The Util module provides access to some utility functions.
 
+> Summary is **extend developer's functionality**.
+
 ## Popular Functions
 
 - [Util::promisify](#promisify)
